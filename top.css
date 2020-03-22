@@ -1,0 +1,19 @@
+h1{
+  color: black;
+  text-align: center;
+  background-color: skyblue;
+}
+header{
+  background-image:url(top.jpg);
+  height: 300px;
+}
+img{
+  opacity:80%;
+}
+
+
+P{
+ float: left;
+ margin:100px;
+
+}
